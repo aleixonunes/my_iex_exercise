@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Iex Exercise</string>
+    <string name="name">Company name: %1$s</string>
+    <string name="site">Company site: %1$s</string>
+    <string name="ceo">Company CEO: %1$s</string>
+    <string name="value">Stock Value: %1$f </string>
+    <string name="symbolNotFound">No stock found for %1$s.</string>
+    <string name="symbol">Symbol</string>
+</resources>
